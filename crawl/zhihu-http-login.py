@@ -4,7 +4,7 @@ import urllib2
 import re
 import cookielib
 
-username = 'yurun@live.com'
+username = 'yyyyyyyy'
 password = 'xxxxxxxx'
 
 def save(text, file):
